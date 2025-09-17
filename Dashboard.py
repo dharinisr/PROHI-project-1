@@ -61,7 +61,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-st.title("Clinical Operations Dashboard")
+st.title("Clinical Waiting Time Dashboard")
 
 # ---------- Generate meaningful synthetic data ----------
 np.random.seed(42)
